@@ -1,2 +1,2 @@
 # CB-toolkit
-Ket topics in Bayesian econometrics in R. 
+Key topics in Bayesian econometrics in R. 
