@@ -32,7 +32,8 @@ DATA <- DATA %>%
 
 DATA <- DATA[-c(1:4),]
 
-save(DATA, file = "DATAUSA")
+# Save it to csv file
+write.csv(DATA, "DATA.csv", row.names = FALSE, quote = FALSE)
 
 
 
